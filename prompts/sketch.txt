@@ -1,0 +1,38 @@
+OBJECT: dog
+
+Generate exactly one high-quality, authentic hand-drawn sketch image representing the object specified above.
+
+IMAGE GENERATION REQUIREMENTS:
+
+1. Subject:
+   - The image must clearly represent the specified object as the primary subject.
+   - The subject should be easily recognizable.
+   - Allow natural variation in the subject's appearance, characteristics, and presentation.
+
+2. Composition and Environment:
+   - The subject may appear in any fitting setting, contextual environment, or clean background.
+   - Use a natural, expressive sketched environment or background appropriate for the subject.
+   - Additional sketched objects, environmental elements, and contextual details are allowed.
+   - Allow creative freedom in the composition, positioning, perspective, and surrounding sketch elements.
+   - Avoid extreme close-ups or unusual angles that make the primary subject difficult to recognize.
+
+3. Visual Style and Artistic Quality:
+   - Generate an authentic hand-drawn sketch with expressive pencil, graphite, charcoal, or ink linework.
+   - Use natural hatching, cross-hatching, contour lines, and realistic shading appropriate for a hand-drawn artwork.
+   - Ensure that the primary subject is visually clear, distinct, and recognizable.
+   - Maintain an organic, coherent, and artistic hand-drawn presentation.
+
+4. Technical Specifications:
+   - Aspect ratio: 1:1 (square).
+   - Target resolution: 1024 × 1024 pixels.
+   - Generate exactly ONE image.
+   - Maintain high artistic quality and visual clarity.
+
+5. General Instructions:
+   - Allow natural variation in the subject's pose, linework style, shading depth, and overall composition.
+   - Do not generate collages, split-screen images, or multiple panels.
+
+FINAL INSTRUCTION:
+
+Generate one high-quality, authentic hand-drawn, square sketch image representing the object specified above, following all the specifications while allowing natural creativity in the scene, background, and artistic composition.
+

@@ -1,0 +1,37 @@
+OBJECT: dog
+
+Generate exactly one high-quality, photorealistic AI image representing the object specified above.
+
+IMAGE GENERATION REQUIREMENTS:
+
+1. Subject:
+   - The image must clearly represent the specified object as the primary subject.
+   - The subject should be easily recognizable.
+   - Allow natural variation in the subject's appearance, characteristics, and presentation.
+
+2. Composition and Environment:
+   - The subject may appear in any realistic setting or situation.
+   - Use a natural, realistic environment or background appropriate for the subject.
+   - Additional objects, environmental elements, and contextual details are allowed.
+   - Allow creative freedom in the composition, positioning, camera perspective, and surrounding environment.
+   - Avoid extreme close-ups or unusual camera angles that make the primary subject difficult to recognize.
+
+3. Visual Quality:
+   - Generate a photorealistic image with natural colors, realistic textures, and high visual quality.
+   - Use realistic lighting appropriate for the environment.
+   - Ensure that the primary subject is visually clear and recognizable.
+   - Maintain a natural and visually coherent scene.
+
+4. Technical Specifications:
+   - Aspect ratio: 1:1 (square).
+   - Target resolution: 1024 × 1024 pixels.
+   - Generate exactly ONE image.
+   - Maintain high image quality and visual clarity.
+
+5. General Instructions:
+   - Allow natural variation in the subject's appearance, colors, surroundings, and overall composition.
+   - Do not generate collages, split-screen images, or multiple panels.
+
+FINAL INSTRUCTION:
+
+Generate one high-quality, photorealistic, square image representing the object specified above, following all the specifications while allowing natural creativity in the scene, background, and composition.
